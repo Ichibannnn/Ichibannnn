@@ -18,7 +18,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **Booking Management System & Productivity Tools**
 - ⚡ Building **real-time apps using SignalR**
 - 🎨 Focused on **responsive UI with Material UI & Chakra UI**
 - 📊 Experienced in **dashboards, tables, and data visualization**
