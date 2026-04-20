@@ -1,84 +1,63 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Gib Pangilinan </h1>
-<h3 align="center">Front-End Developer | React • TypeScript</h3>
+# Hi there 👋, I'm Gib Pangilinan
 
-<p align="center">
-  💻 Building scalable and responsive web applications <br/>
-  🚀 Focused on modern front-end technologies and real-time systems <br/>
-  🎯 Passionate about clean UI, performance, and user experience
-</p>
-
----
-
-<!-- ================= BANNER (OPTIONAL) ================= -->
-<!-- Add your banner here if you have one -->
-<!-- ![Banner](your-banner-link) -->
+<div align="center">
+  <h2>Front-End Developer &nbsp;·&nbsp; React · TypeScript</h2>
+  <p>
+    Building scalable, responsive web apps &nbsp;·&nbsp; Real-time systems with SignalR &nbsp;·&nbsp; Clean UI & UX
+  </p>
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=microsoft&logoColor=white"/>
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- ⚡ Building **real-time apps using SignalR**
-- 🎨 Focused on **responsive UI with Material UI & Chakra UI**
-- 📊 Experienced in **dashboards, tables, and data visualization**
-- 🧠 Continuously learning and improving in modern web development
+I'm a front-end developer focused on building real-time, data-heavy web applications. I work primarily with **React** and **TypeScript**, using **Material UI** and **Chakra UI** for interfaces, and **RTK Query** for state and data fetching. Currently deepening my skills in real-time communication with **SignalR** and performance-oriented UI patterns.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Front-End
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-
-### 🎨 UI / Styling
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakraui)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass)
-
-### ⚙️ State & Data
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![RTK Query](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux)
-
-### 🔌 Tools & Others
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=microsoft)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+| Category | Technologies |
+|---|---|
+| **Front-End** | React, TypeScript, JavaScript |
+| **UI / Styling** | Material UI, Chakra UI, SASS |
+| **State & Data** | Redux, RTK Query |
+| **Tools** | Vite, SignalR, Git |
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Project
 
-### 🗓️ MIS Helpdesk
-MIS Helpdesk acts as a centralized platform where employees can submit tickets for issues such as technical problems, service requests, or inquiries. Each ticket contains relevant details, and it is then assigned to the appropriate team or personnel for resolution.
+### 🗂️ MIS Helpdesk
+> Centralized ticket management platform for internal IT and service requests.
 
-- 🔧 Tech: React, RTK Query, Material UI  
-- ✨ Features:
-  1. Role-Based Access Control
-     - Requestor/Users - creates tickets
-     - Issue Handler - handles tickets / creates tickets
-     - Admin - manages systems
-       
-  2. Concern Requests
-     - Details
-     - Service Provider
-     - Date Needed
-     - Attachtments
-     - Status of concern
-     - Confirmation of concerns
-       
-  3. Ticket Creation and Submission
-     - Ticket Name / Ticket Number
-     - Category
-     - Target Date
-     - Status of tickets
-       
-📁 Repo: https://github.com/Ichibannnn/make-it-simple
+Employees submit and track tickets for technical issues or service requests. The system supports role-based workflows, file attachments, and real-time status updates.
+
+**Stack:** React · RTK Query · Material UI
+
+**Roles:**
+| Role | Responsibility |
+|---|---|
+| `Requestor` | Creates and monitors their own tickets |
+| `Issue Handler` | Manages and resolves assigned tickets |
+| `Admin` | System-wide configuration and oversight |
+
+**Key features:**
+- Ticket creation with name, number, category, and target date
+- File attachment support
+- Real-time status tracking and confirmation
+- Service provider assignment and date scheduling
+
+📁 **Repo:** [github.com/Ichibannnn/make-it-simple](https://github.com/Ichibannnn/make-it-simple)
 
 ---
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  🚀 Always learning. Always building.
-</p>
+<div align="center">
+  <sub>🚀 Always learning. Always building.</sub>
+</div>
