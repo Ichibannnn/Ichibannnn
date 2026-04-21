@@ -32,7 +32,7 @@ I’m a front-end developer focused on building real-time, data-driven web appli
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 🎟️ MIS Helpdesk
 > Centralized ticket management platform for internal IT and service requests.
