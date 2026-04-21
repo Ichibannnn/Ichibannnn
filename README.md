@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a front-end developer focused on building real-time, data-heavy web applications. I work primarily with **React** and **TypeScript**, using **Material UI** and **Chakra UI** for interfaces, and **RTK Query** for state and data fetching. Currently deepening my skills in real-time communication with **SignalR** and performance-oriented UI patterns.
+I’m a front-end developer focused on building real-time, data-driven web applications using React and TypeScript. I use Material UI and Chakra UI for modern interfaces, and RTK Query for efficient data handling. Currently exploring real-time features with SignalR and improving UI performance.
 
 ---
 
@@ -49,19 +49,16 @@ Employees submit and track tickets for technical issues or service requests. The
 | `Admin` | System-wide configuration and oversight |
 
 **Key features:**
-📝 Ticket Creation
 - Create tickets with structured details including name, reference number, category, and target resolution date
 - Ensures standardized and organized request handling
-📎 File Attachment Support
 - Attach relevant documents, images, or supporting files to tickets
 - Improves clarity and reduces back-and-forth communication
-👨‍🔧 Service Provider Assignment & Scheduling
 - Assign tickets to appropriate service providers or teams
 - Schedule handling dates to ensure timely resolution and accountability
 
 📁 **Repo:** [github.com/Ichibannnn/make-it-simple](https://github.com/Ichibannnn/make-it-simple)
 
-### 🎟️ Elixir ETD
+### ⚙️ Elixir ETD
 > A centralized warehouse management system designed to streamline and automate all Engineering and Technical Department (ETD) inventory operations—from receiving and storage to issuance and dispatch.
 
 The system ensures real-time inventory visibility, accurate transaction tracking, and end-to-end material lifecycle management, replacing manual processes with a more efficient, reliable, and data-driven solution.
@@ -76,22 +73,16 @@ The system ensures real-time inventory visibility, accurate transaction tracking
 | `Admin` | Manages system configuration, users, and overall operations |
 
 **Key features:**
-📥 Purchase Order Integration
 - Import and manage approved purchase orders seamlessly
-📦 Receiving Management
 - Record and validate incoming materials from suppliers
 - Automatically update inventory upon confirmation
-📝 Request & Scheduling System
-- Create and manage purchase requests
 - Schedule and organize material preparation
-🔄 Move Order Processing
 - Handle internal material movement and order preparation
 - Generate move order slips for tracking and documentation
-📊 Inventory Tracking
 - Monitor item details such as quantity, unit, and status
 - Maintain complete movement history and audit trail
 
-📁 **Repo:** [github.com/Ichibannnn/make-it-simple](https://github.com/Ichibannnn/Elixir-ETD-main)
+📁 **Repo:** [github.com/Ichibannnn/Elixir-ETD-main](https://github.com/Ichibannnn/Elixir-ETD-main)
 
 ---
 
